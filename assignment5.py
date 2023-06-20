@@ -19,7 +19,7 @@ print("\nThe smallest element(number) in the list =",min(lst))
 print("\nThe largest element(number) in the list =",max(lst))
 
 #(4)Display list in ascending order.
-lst.sort()
+del lst
 print("\nlist in ascending order:",lst)
 
 #(5)Display list in descending order.
